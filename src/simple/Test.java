@@ -8,7 +8,7 @@ public class Test {
        * Solo texto sin numero ni espacios
        * Separacion con CamelUpperCase
        * */
-      String text = "AverAlgoConZ";
+      String text = "TextoNormal";
 
       /*
        * Saltos entre palabras: cesar
